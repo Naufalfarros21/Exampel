@@ -80,7 +80,7 @@ public class CGV {
             pesanan.setJumTicket(jumUser);
             pesanan.setMovieName(movieSelect);
             pesanan.setMoviePrice(55000);
-            pesanan.setUserName(myUser);
+            pesanan.setUserName("myUser1");
             nontonApa.add(pesanan);
         }
         // Menampilkan Jumlah penonton movie tertentu
